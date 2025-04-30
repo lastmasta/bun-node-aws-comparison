@@ -71,3 +71,7 @@ bun.lockb
 
 # Testing
 *.lcov 
+
+# Images
+packages/image-resizer/images/*.jpg
+packages/image-resizer/processed-images/*.jpg
