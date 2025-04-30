@@ -1,9 +1,20 @@
-# Dependency directories
+# Node.js dependencies
 node_modules/
 npm-debug.log
 yarn-debug.log
 yarn-error.log
 .pnpm-debug.log
+.npm
+.yarn-integrity
+package-lock.json
+yarn.lock
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
 # Environment variables
 .env
@@ -20,42 +31,43 @@ out/
 .nuxt/
 .output/
 
-# Coverage directory used by tools like istanbul
+# Coverage directories
 coverage/
+.nyc_output
+
+# Cache directories
+.cache/
+.eslintcache
+.parcel-cache/
 
 # Logs
 logs
 *.log
-
-# Operating System Files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
 # Editor directories and files
 .idea/
 .vscode/
 *.swp
 *.swo
-.project
-.classpath
-.settings/
+.DS_Store
+*.sublime-project
 *.sublime-workspace
 
-# Cache directories
-.npm
-.eslintcache
-.stylelintcache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
-.cache/
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
 
-# Optional: local bundles and debugging files
-*.tgz
-.node_repl_history 
+# OS specific
+Thumbs.db
+
+# Bun
+bun.lockb
+
+# AWS
+.serverless/
+.aws-sam/
+
+# Testing
+*.lcov 
