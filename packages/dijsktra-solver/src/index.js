@@ -1,21 +1,9 @@
 const Graph = require('node-dijkstra');
 
-const route = new Graph({
-  A: {
-    B: 1,
-  },
-  B: {
-    A: 1,
-    C: 2,
-    D: 4,
-  },
-  C: {
-    B: 2,
-    D: 1,
-  },
-  D: {
-    C: 1,
-  },
-});
+const complexGraph = require('../data/complex-graph.json');
 
-route.path('A', 'D'); // => [ 'A', 'B', 'C', 'D' ]
+const route = new Graph(complexGraph);
+
+const path = route.path('Node_0', 'Node_31', { cost: true });
+
+console.log(path);
