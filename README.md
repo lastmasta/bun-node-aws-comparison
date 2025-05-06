@@ -45,6 +45,10 @@ For the best development experience with VS Code:
    - Run ESLint fix on save
    - Apply consistent settings across developers
 
+## Steps to create bun layer in AWS
+
+https://learnaws.io/blog/bun-aws-lambda
+
 ## License
 
 ISC 

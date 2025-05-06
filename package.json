@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Comparison of Bun, Node.js, and AWS for various tasks",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -13,7 +10,7 @@
     "format:check": "prettier --check ."
   },
   "engines": {
-    "node": ">=22.0.0"
+    "node": ">=20.0.0"
   },
   "packageManager": "npm@10.2.0",
   "devDependencies": {
