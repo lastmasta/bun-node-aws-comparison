@@ -73,12 +73,32 @@ function generateRandomGraph(n, density = 0.3, maxCost = 10) {
   return graph;
 }
 
-const graph = generateRandomGraph(200, 0.8, 100);
+// Parse command line arguments
+const args = process.argv.slice(2);
+let n, density, maxCost;
+
+for (let i = 0; i < args.length; i++) {
+  if (args[i] === '--n' && i + 1 < args.length) {
+    n = parseInt(args[i + 1], 10);
+    i++;
+  } else if (args[i] === '--density' && i + 1 < args.length) {
+    density = parseFloat(args[i + 1]);
+    i++;
+  } else if (args[i] === '--max-cost' && i + 1 < args.length) {
+    maxCost = parseInt(args[i + 1], 10);
+    i++;
+  }
+}
+
+const graph = generateRandomGraph(n, density, maxCost);
 
 // The graph is too large to stringify with indentation
 // Use a more efficient approach to write the file
 const fs = require('fs');
-const stream = fs.createWriteStream('graph.json');
+const path = require('path');
+const outputPath = path.join(process.cwd(), 'output', 'graph.json');
+fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+const stream = fs.createWriteStream(outputPath);
 
 // Write the opening brace
 stream.write('{\n');

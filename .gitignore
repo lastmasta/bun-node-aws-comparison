@@ -75,4 +75,4 @@ bun.lockb
 # Images
 packages/image-resizer/images/*.jpg
 packages/image-resizer/processed-images/*.jpg
-graph.json
+scripts/output
