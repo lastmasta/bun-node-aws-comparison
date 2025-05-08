@@ -1,7 +1,8 @@
 const { findShortestPath } = require('./findShortestPath');
 
 exports.dijkstraSolver = async event => {
-  const { start, end, graph } = event;
+  const { body } = event;
+  const { start, end, graph } = JSON.parse(body);
 
   const shortestPath = findShortestPath(start, end, graph);
 

@@ -18,7 +18,7 @@ npm install
 This is a monorepo with the following packages:
 
 - `packages/xml-parser`: XML parsing comparison
-- `packages/image-resizer`: Image resizing comparison 
+- `packages/image-resizer`: Image resizing comparison
 - `packages/dijsktra-solver`: Dijkstra's algorithm implementation comparison
 
 ## ESLint and Prettier
@@ -47,14 +47,15 @@ For the best development experience with VS Code:
 
 ## Steps to create bun layer in AWS
 
-https://learnaws.io/blog/bun-aws-lambda
+<https://learnaws.io/blog/bun-aws-lambda>
 
 ## Docker
 
 - Url: `256727551815.dkr.ecr.us-east-2.amazonaws.com`
+- Create repo: `aws ecr create-repository --repository-name dijkstra-solver-bun`
 - Build: `docker build -t dijkstra-solver-bun -f packages/dijkstra-solver/container/Dockerfile.bun packages/dijkstra-solver/`
 - Tag: `docker tag dijkstra-solver-bun:latest 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
-- Push: `docker push 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-node:latest`
+- Push: `docker push 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
 
 ## License
 

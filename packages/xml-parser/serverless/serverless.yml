@@ -1,9 +1,9 @@
 # "org" ensures this Service is used with the correct Serverless Framework Access Key.
 org: rpineda
 # "app" enables Serverless Framework Dashboard features and sharing them with other Services.
-app: dijsktra-solver
+app: xml-parser
 # "service" is the name of this project. This will also be added to your AWS resource names.
-service: dijsktra-solver
+service: xml-parser
 
 provider:
   name: aws
@@ -11,14 +11,14 @@ provider:
   region: us-east-2
 
 functions:
-  dijkstraSolverNode:
-    handler: nodeHandler.dijkstraSolver
+  xmlParserNode:
+    handler: nodeHandler.xmlParser
     events:
       - httpApi:
           path: /
           method: post
-  dijkstraSolverBun:
-    handler: bunHandler.dijkstraSolver
+  xmlParserBun:
+    handler: bunHandler.xmlParser
     runtime: provided.al2
     architecture: arm64
     layers:
