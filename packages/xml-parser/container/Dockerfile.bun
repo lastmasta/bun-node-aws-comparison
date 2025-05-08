@@ -1,0 +1,16 @@
+FROM oven/bun:1.0.0
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+RUN bun install
+
+# Copy source files
+COPY . .
+
+# Expose the port
+EXPOSE 3000
+
+# Start the server
+CMD ["bun", "bunHandler.js"] 
