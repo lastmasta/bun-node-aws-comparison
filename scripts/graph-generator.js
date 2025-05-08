@@ -73,7 +73,7 @@ function generateRandomGraph(n, density = 0.3, maxCost = 10) {
   return graph;
 }
 
-const graph = generateRandomGraph(5, 0.8, 100);
+const graph = generateRandomGraph(200, 0.8, 100);
 
 // The graph is too large to stringify with indentation
 // Use a more efficient approach to write the file

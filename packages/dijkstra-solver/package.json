@@ -12,5 +12,8 @@
   "packageManager": "npm@10.2.0",
   "dependencies": {
     "node-dijkstra": "^2.5.0"
+  },
+  "devDependencies": {
+    "bun-types": "^1.2.12"
   }
 }

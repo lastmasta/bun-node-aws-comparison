@@ -49,6 +49,13 @@ For the best development experience with VS Code:
 
 https://learnaws.io/blog/bun-aws-lambda
 
+## Docker
+
+- Url: `256727551815.dkr.ecr.us-east-2.amazonaws.com`
+- Build: `docker build -t dijkstra-solver-bun -f packages/dijkstra-solver/container/Dockerfile.bun packages/dijkstra-solver/`
+- Tag: `docker tag dijkstra-solver-bun:latest 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
+- Push: `docker push 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-node:latest`
+
 ## License
 
-ISC 
+ISC
