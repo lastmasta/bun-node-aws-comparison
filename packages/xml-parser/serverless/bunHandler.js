@@ -5,6 +5,7 @@ exports.xmlParser = async event => {
     const { aws } = event;
     const { body } = aws;
     const { xml } = JSON.parse(body);
+
     const parser = new XMLParser();
     const parsedXml = parser.parse(xml);
 
