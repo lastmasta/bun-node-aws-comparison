@@ -1,0 +1,21 @@
+FROM node:20-slim
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+RUN npm install
+
+# Copy source files
+COPY . .
+
+# Set environment variables
+ENV ACCESS_KEY_ID=<ACCESS_KEY_ID>
+ENV SECRET_ACCESS_KEY=<SECRET_ACCESS_KEY>
+ENV S3_BUCKET_NAME=<S3_BUCKET_NAME>
+
+# Expose the port
+EXPOSE 3000
+
+# Start the server
+CMD ["node", "nodeHandler.js"] 

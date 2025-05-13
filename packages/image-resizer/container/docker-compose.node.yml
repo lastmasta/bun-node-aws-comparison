@@ -1,0 +1,5 @@
+services:
+  image-resizer-node:
+    image: image-resizer-node:latest
+    ports:
+      - "3000:3000"

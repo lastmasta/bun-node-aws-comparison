@@ -15,11 +15,6 @@ npm install
 
 For `image-resizer` to work on AWS Lambda run:
 
-```bash
-npm install --os=linux --cpu=x64 --save sharp
-npm install --os=linux --cpu=arm64 --save sharp
-```
-
 ## Project Structure
 
 This is a monorepo with the following packages:
@@ -59,10 +54,11 @@ For the best development experience with VS Code:
 ## Docker
 
 - Url: `256727551815.dkr.ecr.us-east-2.amazonaws.com`
-- Build: `docker build -t dijkstra-solver-bun -f packages/dijkstra-solver/container/Dockerfile.bun packages/dijkstra-solver/`
-- Create repo: `aws ecr create-repository --repository-name dijkstra-solver-bun`
-- Tag: `docker tag dijkstra-solver-bun:latest 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
-- Push: `docker push 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
+- Create repo: `aws ecr create-repository --repository-name <package-name>-<runtime>`
+- Build Image: `docker build -t dijkstra-solver-bun -f packages/dijkstra-solver/container/Dockerfile.bun packages/dijkstra-solver/`
+- Tag Image: `docker tag dijkstra-solver-bun:latest 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
+- Login to AWS ECR: `aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 256727551815.dkr.ecr.us-east-2.amazonaws.com`
+- Push Image: `docker push 256727551815.dkr.ecr.us-east-2.amazonaws.com/dijkstra-solver-bun:latest`
 
 ## License
 

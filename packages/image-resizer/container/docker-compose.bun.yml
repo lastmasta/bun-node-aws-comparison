@@ -1,0 +1,5 @@
+services:
+  image-resizer-bun:
+    image: image-resizer-bun:latest
+    ports:
+      - "3000:3000"
