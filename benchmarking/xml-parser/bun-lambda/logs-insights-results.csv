@@ -1,0 +1,201 @@
+@timestamp,@message,@logStream,@log,@maxMemoryUsed,@duration
+2025-05-14 05:52:39.935,"REPORT RequestId: 4e8f19fd-6270-4d8a-bcd2-040bfff06870	Duration: 3387.21 ms	Billed Duration: 3388 ms	Memory Size: 1024 MB	Max Memory Used: 655 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,655000000,3387.21
+2025-05-14 05:52:39.715,"REPORT RequestId: 39670203-aaec-48a2-a3de-ecf93840f8d8	Duration: 3299.07 ms	Billed Duration: 3300 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3299.07
+2025-05-14 05:52:39.641,"REPORT RequestId: d8a25d75-90c4-4348-a6c9-b6506b2bb8d7	Duration: 3387.27 ms	Billed Duration: 3388 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3387.27
+2025-05-14 05:52:39.607,"REPORT RequestId: 33edc093-2041-4532-855c-237300890d6f	Duration: 3346.22 ms	Billed Duration: 3347 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3346.22
+2025-05-14 05:52:36.757,"REPORT RequestId: 6f9b55c6-646a-474f-9ea8-b44a41f3a8f4	Duration: 3547.89 ms	Billed Duration: 3548 ms	Memory Size: 1024 MB	Max Memory Used: 527 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,527000000,3547.89
+2025-05-14 05:52:36.455,"REPORT RequestId: b609fdf8-0170-469b-975a-9966a1f9d7a8	Duration: 3378.06 ms	Billed Duration: 3379 ms	Memory Size: 1024 MB	Max Memory Used: 655 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,655000000,3378.06
+2025-05-14 05:52:36.314,"REPORT RequestId: 0ea20355-49c3-4ac9-881f-272b15f37f78	Duration: 3348.48 ms	Billed Duration: 3349 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3348.48
+2025-05-14 05:52:36.162,"REPORT RequestId: ef59be6a-50ef-4ce0-b2f6-4fb323a46d3d	Duration: 3359.27 ms	Billed Duration: 3360 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3359.27
+2025-05-14 05:52:36.106,"REPORT RequestId: 3738aecf-02b4-4ee1-8389-b30f9c1dea34	Duration: 3299.78 ms	Billed Duration: 3300 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3299.78
+2025-05-14 05:52:33.117,"REPORT RequestId: 3e853105-1306-41aa-9833-57594159ee61	Duration: 3451.22 ms	Billed Duration: 3452 ms	Memory Size: 1024 MB	Max Memory Used: 527 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,527000000,3451.22
+2025-05-14 05:52:32.975,"REPORT RequestId: 6c0494dc-24a0-45f1-b7e3-755dcedd2e9e	Duration: 3600.15 ms	Billed Duration: 3601 ms	Memory Size: 1024 MB	Max Memory Used: 655 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,655000000,3600.15
+2025-05-14 05:52:32.872,"REPORT RequestId: 890c6b5a-d3cf-4106-98f9-499ff5b2ccb0	Duration: 3352.86 ms	Billed Duration: 3353 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3352.86
+2025-05-14 05:52:32.686,"REPORT RequestId: 677270cb-13ae-48b8-b9b3-54abf572765a	Duration: 3400.40 ms	Billed Duration: 3401 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3400.4
+2025-05-14 05:52:32.667,"REPORT RequestId: 14015087-9e5e-4e15-b1f2-c2b981ace739	Duration: 3324.58 ms	Billed Duration: 3325 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3324.58
+2025-05-14 05:52:29.561,"REPORT RequestId: d51ab310-2b75-464f-a5f4-e1748b2cc9d1	Duration: 3433.46 ms	Billed Duration: 3434 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3433.46
+2025-05-14 05:52:29.414,"REPORT RequestId: 82bb8e92-5199-489a-b9e5-ddb53a16489e	Duration: 3411.16 ms	Billed Duration: 3412 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3411.16
+2025-05-14 05:52:29.287,"REPORT RequestId: 2a56b05d-66bd-48fe-bbe7-20667e0fa8b6	Duration: 3305.05 ms	Billed Duration: 3306 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3305.05
+2025-05-14 05:52:29.261,"REPORT RequestId: 9263ab62-74f0-4f50-b217-81fcb0f46fa5	Duration: 3387.37 ms	Billed Duration: 3388 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3387.37
+2025-05-14 05:52:29.180,"REPORT RequestId: dd98a156-2743-4cd0-93dd-27fb3a67bfdf	Duration: 3308.41 ms	Billed Duration: 3309 ms	Memory Size: 1024 MB	Max Memory Used: 655 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,655000000,3308.41
+2025-05-14 05:52:26.038,"REPORT RequestId: c8bd1da9-5d16-429b-a65a-43e7f7337c2b	Duration: 3443.08 ms	Billed Duration: 3444 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3443.08
+2025-05-14 05:52:25.910,"REPORT RequestId: ec2ea6e1-d6fe-4817-9617-d16f0d16343f	Duration: 3362.80 ms	Billed Duration: 3363 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3362.8
+2025-05-14 05:52:25.892,"REPORT RequestId: b0323174-4e06-42b0-b265-77b6a0e6de55	Duration: 3371.82 ms	Billed Duration: 3372 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3371.82
+2025-05-14 05:52:25.796,"REPORT RequestId: 4f1b4a0e-ecfd-4723-8cf4-4fc3082895c4	Duration: 3367.49 ms	Billed Duration: 3368 ms	Memory Size: 1024 MB	Max Memory Used: 655 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,655000000,3367.49
+2025-05-14 05:52:25.782,"REPORT RequestId: 21458d11-0a37-4791-bcd6-c19662c3bcb8	Duration: 3432.50 ms	Billed Duration: 3433 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3432.5
+2025-05-14 05:52:22.492,"REPORT RequestId: aebbc5f9-1dda-4e6b-9a78-6ef57b1d3314	Duration: 3307.29 ms	Billed Duration: 3308 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3307.29
+2025-05-14 05:52:22.447,"REPORT RequestId: 736c7f59-f1ef-41fd-9ac8-711ea807b09a	Duration: 3341.08 ms	Billed Duration: 3342 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3341.08
+2025-05-14 05:52:22.400,"REPORT RequestId: 85c64fd0-ea5f-4f7f-8332-3334236cd5d3	Duration: 3625.88 ms	Billed Duration: 3626 ms	Memory Size: 1024 MB	Max Memory Used: 653 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,653000000,3625.88
+2025-05-14 05:52:22.323,"REPORT RequestId: 0c9af888-4532-4bd9-a38f-1297c8c0fdc7	Duration: 3393.02 ms	Billed Duration: 3394 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3393.02
+2025-05-14 05:52:22.258,"REPORT RequestId: 6218ebdb-17e8-4221-ba7c-c4da299e766c	Duration: 3480.93 ms	Billed Duration: 3481 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3480.93
+2025-05-14 05:52:19.072,"REPORT RequestId: a504994e-a7df-4a02-8c81-2ce3a07f267d	Duration: 3353.37 ms	Billed Duration: 3354 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3353.37
+2025-05-14 05:52:18.997,"REPORT RequestId: 23b4e105-fdbc-4f1c-92a0-3c2de89f0e4f	Duration: 3519.98 ms	Billed Duration: 3520 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3519.98
+2025-05-14 05:52:18.845,"REPORT RequestId: e9f3ec1f-304b-4166-8fe2-46696b39945a	Duration: 3386.43 ms	Billed Duration: 3387 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3386.43
+2025-05-14 05:52:18.638,"REPORT RequestId: 8fe611e7-c415-4614-97c9-5f1f9daaab75	Duration: 3451.42 ms	Billed Duration: 3452 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3451.42
+2025-05-14 05:52:18.558,"REPORT RequestId: 184e8486-4e41-4539-8843-8be270b4725b	Duration: 3511.89 ms	Billed Duration: 3512 ms	Memory Size: 1024 MB	Max Memory Used: 643 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,643000000,3511.89
+2025-05-14 05:52:15.627,"REPORT RequestId: d6df3816-1009-4fea-9a3e-7dd6bb9c7ab0	Duration: 3290.95 ms	Billed Duration: 3291 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3290.95
+2025-05-14 05:52:15.402,"REPORT RequestId: 32febfcc-cb3c-4a1e-8920-8477b4d8e2cd	Duration: 3483.97 ms	Billed Duration: 3484 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3483.97
+2025-05-14 05:52:15.355,"REPORT RequestId: aefe6f4b-8841-426a-ac7e-6486199e77c0	Duration: 3463.97 ms	Billed Duration: 3464 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3463.97
+2025-05-14 05:52:15.100,"REPORT RequestId: 21811911-bbe1-477e-96fe-42840b32bfef	Duration: 3484.00 ms	Billed Duration: 3484 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3484
+2025-05-14 05:52:14.956,"REPORT RequestId: 523072d4-d79d-402e-8015-7ceffdba2e95	Duration: 3442.33 ms	Billed Duration: 3443 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3442.33
+2025-05-14 05:52:12.247,"REPORT RequestId: cdc0da1a-4af7-431c-b611-65bf38d1eb8c	Duration: 3284.68 ms	Billed Duration: 3285 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3284.68
+2025-05-14 05:52:11.833,"REPORT RequestId: 22ae3f57-b6e4-48a8-ab35-b43282b3812a	Duration: 3331.78 ms	Billed Duration: 3332 ms	Memory Size: 1024 MB	Max Memory Used: 545 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,545000000,3331.78
+2025-05-14 05:52:11.787,"REPORT RequestId: de59c744-30f4-4996-899e-ac66f18865d4	Duration: 3378.36 ms	Billed Duration: 3379 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3378.36
+2025-05-14 05:52:11.519,"REPORT RequestId: cadcecec-c93c-4ab6-9de7-a8613ced2830	Duration: 3367.58 ms	Billed Duration: 3368 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3367.58
+2025-05-14 05:52:11.417,"REPORT RequestId: db0a70bc-ab9c-49bc-b293-b0c457250f9a	Duration: 3335.69 ms	Billed Duration: 3336 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3335.69
+2025-05-14 05:52:08.867,"REPORT RequestId: c83c6f4c-ff94-4890-ab76-f4f8883e322e	Duration: 3367.09 ms	Billed Duration: 3368 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3367.09
+2025-05-14 05:52:08.412,"REPORT RequestId: 72df34a4-17dd-4d5b-85e6-624551931cd5	Duration: 3625.65 ms	Billed Duration: 3626 ms	Memory Size: 1024 MB	Max Memory Used: 541 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,541000000,3625.65
+2025-05-14 05:52:08.322,"REPORT RequestId: bfed7b57-8d17-4bdd-970e-cb018d51075f	Duration: 3372.36 ms	Billed Duration: 3373 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3372.36
+2025-05-14 05:52:08.056,"REPORT RequestId: 4a965290-32c2-4e42-8a17-89da9f6304bd	Duration: 3341.19 ms	Billed Duration: 3342 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3341.19
+2025-05-14 05:52:07.979,"REPORT RequestId: a2ad07d1-bd78-4a94-a659-0cceacd7bf11	Duration: 3350.55 ms	Billed Duration: 3351 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3350.55
+2025-05-14 05:52:05.407,"REPORT RequestId: d9391704-0527-4b97-a8b3-9f6d9c42b941	Duration: 3230.37 ms	Billed Duration: 3231 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3230.37
+2025-05-14 05:52:04.862,"REPORT RequestId: ae572b09-725c-4823-805c-a8b958a30427	Duration: 3291.44 ms	Billed Duration: 3292 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3291.44
+2025-05-14 05:52:04.697,"REPORT RequestId: 4f4ebc09-d608-4d84-ada5-1b40351ba677	Duration: 3368.28 ms	Billed Duration: 3369 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3368.28
+2025-05-14 05:52:04.619,"REPORT RequestId: 6e376f60-617f-4029-ba38-9026aacab3f1	Duration: 3353.69 ms	Billed Duration: 3354 ms	Memory Size: 1024 MB	Max Memory Used: 517 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,517000000,3353.69
+2025-05-14 05:52:04.534,"REPORT RequestId: 18091a65-90dc-43b4-9223-3eddb467e2e1	Duration: 3273.03 ms	Billed Duration: 3274 ms	Memory Size: 1024 MB	Max Memory Used: 541 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,541000000,3273.03
+2025-05-14 05:52:02.087,"REPORT RequestId: a03e3754-d9b0-4ba4-a30a-19c24ad2e270	Duration: 3434.22 ms	Billed Duration: 3435 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3434.22
+2025-05-14 05:52:01.464,"REPORT RequestId: ccbd54c7-6fb8-4cc3-a858-7f66305274cc	Duration: 3344.22 ms	Billed Duration: 3345 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3344.22
+2025-05-14 05:52:01.232,"REPORT RequestId: 58755820-e5d4-48ba-b382-9d8ab7b3acdb	Duration: 3426.83 ms	Billed Duration: 3427 ms	Memory Size: 1024 MB	Max Memory Used: 541 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,541000000,3426.83
+2025-05-14 05:52:01.178,"REPORT RequestId: 9698760f-3127-42db-a837-1880d8e072c3	Duration: 3387.73 ms	Billed Duration: 3388 ms	Memory Size: 1024 MB	Max Memory Used: 515 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,515000000,3387.73
+2025-05-14 05:52:01.077,"REPORT RequestId: 0c04a819-8a74-442c-a641-fa7dcc7a8ff4	Duration: 3296.85 ms	Billed Duration: 3297 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3296.85
+2025-05-14 05:51:58.549,"REPORT RequestId: 5b1bd1d7-2614-43b3-8c8a-5d61158c513c	Duration: 3269.09 ms	Billed Duration: 3270 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3269.09
+2025-05-14 05:51:58.042,"REPORT RequestId: d4ba23bc-03c2-4d7c-a464-624863ac916b	Duration: 3527.70 ms	Billed Duration: 3528 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3527.7
+2025-05-14 05:51:57.716,"REPORT RequestId: 67593a60-683b-4e2c-b257-b74f2d91563b	Duration: 3479.24 ms	Billed Duration: 3480 ms	Memory Size: 1024 MB	Max Memory Used: 642 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,642000000,3479.24
+2025-05-14 05:51:57.699,"REPORT RequestId: c60e3f03-4e6d-4bf9-8d69-aff2aef94a2b	Duration: 3618.21 ms	Billed Duration: 3619 ms	Memory Size: 1024 MB	Max Memory Used: 509 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,509000000,3618.21
+2025-05-14 05:51:57.691,"REPORT RequestId: fd248607-69e1-4291-8e65-259a7bdb8af5	Duration: 3583.60 ms	Billed Duration: 3584 ms	Memory Size: 1024 MB	Max Memory Used: 512 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,512000000,3583.6
+2025-05-14 05:51:55.188,"REPORT RequestId: d89d0e5e-7905-4e61-ae5c-db75c5d4bc49	Duration: 3255.53 ms	Billed Duration: 3256 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3255.53
+2025-05-14 05:51:54.422,"REPORT RequestId: 7f997347-6934-41f3-9854-7357e5a5a50e	Duration: 3724.69 ms	Billed Duration: 3725 ms	Memory Size: 1024 MB	Max Memory Used: 584 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,584000000,3724.69
+2025-05-14 05:51:54.137,"REPORT RequestId: 1ec131a3-2ebf-47ea-ab52-762d9a235c6a	Duration: 3522.22 ms	Billed Duration: 3523 ms	Memory Size: 1024 MB	Max Memory Used: 595 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,595000000,3522.22
+2025-05-14 05:51:54.018,"REPORT RequestId: e9980a14-f5a0-4785-9d09-533941bfc772	Duration: 3402.87 ms	Billed Duration: 3403 ms	Memory Size: 1024 MB	Max Memory Used: 493 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,493000000,3402.87
+2025-05-14 05:51:53.975,"REPORT RequestId: 937683ca-e8d6-485e-beee-f672e503ce42	Duration: 3360.53 ms	Billed Duration: 3361 ms	Memory Size: 1024 MB	Max Memory Used: 503 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,503000000,3360.53
+2025-05-14 05:51:51.829,"REPORT RequestId: 693bb55a-976e-43a2-921c-4f39ff02495c	Duration: 3467.59 ms	Billed Duration: 3468 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3467.59
+2025-05-14 05:51:50.596,"REPORT RequestId: d602b635-2872-47b2-b6d6-cc757b8edc59	Duration: 3510.61 ms	Billed Duration: 3511 ms	Memory Size: 1024 MB	Max Memory Used: 502 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,502000000,3510.61
+2025-05-14 05:51:50.519,"REPORT RequestId: f09eb682-7ec5-4e69-882e-e0ea34d9dd16	Duration: 3398.53 ms	Billed Duration: 3399 ms	Memory Size: 1024 MB	Max Memory Used: 493 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,493000000,3398.53
+2025-05-14 05:51:50.472,"REPORT RequestId: f14651ac-cab5-4029-b940-8baf59188505	Duration: 3377.24 ms	Billed Duration: 3378 ms	Memory Size: 1024 MB	Max Memory Used: 503 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,503000000,3377.24
+2025-05-14 05:51:50.442,"REPORT RequestId: b196ef3b-cd7c-4ffb-9f4c-3df1aeb664dc	Duration: 3414.63 ms	Billed Duration: 3415 ms	Memory Size: 1024 MB	Max Memory Used: 521 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,521000000,3414.63
+2025-05-14 05:51:48.170,"REPORT RequestId: 43dc1a8c-da2d-492a-9127-6a5bae663f61	Duration: 3307.07 ms	Billed Duration: 3308 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3307.07
+2025-05-14 05:51:47.023,"REPORT RequestId: 001635a9-39d8-42fb-a2ce-b325914cbe63	Duration: 4179.05 ms	Billed Duration: 4180 ms	Memory Size: 1024 MB	Max Memory Used: 513 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,513000000,4179.05
+2025-05-14 05:51:46.997,"REPORT RequestId: c5d6643a-151f-4ac6-96be-005e172fb710	Duration: 4101.45 ms	Billed Duration: 4102 ms	Memory Size: 1024 MB	Max Memory Used: 496 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,496000000,4101.45
+2025-05-14 05:51:46.991,"REPORT RequestId: 7fb46060-bdaa-46f6-8a28-28e1080c0ad8	Duration: 4085.80 ms	Billed Duration: 4086 ms	Memory Size: 1024 MB	Max Memory Used: 485 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,485000000,4085.8
+2025-05-14 05:51:46.879,"REPORT RequestId: 3bc34a97-1f8f-45a6-a578-416518708755	Duration: 4016.84 ms	Billed Duration: 4017 ms	Memory Size: 1024 MB	Max Memory Used: 488 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,488000000,4016.84
+2025-05-14 05:51:44.769,"REPORT RequestId: d109f36d-1c2d-44f9-ae5c-0623f6e6aba3	Duration: 3276.56 ms	Billed Duration: 3277 ms	Memory Size: 1024 MB	Max Memory Used: 596 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,596000000,3276.56
+2025-05-14 05:51:42.803,"REPORT RequestId: 3c896318-e34b-4e88-90c5-1bbdfdef8002	Duration: 3643.32 ms	Billed Duration: 3644 ms	Memory Size: 1024 MB	Max Memory Used: 490 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,490000000,3643.32
+2025-05-14 05:51:42.799,"REPORT RequestId: 1cd931bb-02c6-43c3-bf74-f3f2d90388de	Duration: 3753.21 ms	Billed Duration: 3754 ms	Memory Size: 1024 MB	Max Memory Used: 488 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,488000000,3753.21
+2025-05-14 05:51:42.776,"REPORT RequestId: 232a101b-1a3e-4666-8796-b3610037b9d7	Duration: 3723.62 ms	Billed Duration: 3724 ms	Memory Size: 1024 MB	Max Memory Used: 482 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,482000000,3723.62
+2025-05-14 05:51:42.733,"REPORT RequestId: 9e43fe91-c4af-4d1b-8ecc-4e17b3127b07	Duration: 3666.94 ms	Billed Duration: 3667 ms	Memory Size: 1024 MB	Max Memory Used: 485 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,485000000,3666.94
+2025-05-14 05:51:41.387,"REPORT RequestId: 95a2010a-6a49-4688-8861-03eb37c62ceb	Duration: 3533.10 ms	Billed Duration: 3534 ms	Memory Size: 1024 MB	Max Memory Used: 594 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,594000000,3533.1
+2025-05-14 05:51:39.044,"REPORT RequestId: 813faafc-5f0b-45eb-8ff2-aebfa2356a8b	Duration: 4083.52 ms	Billed Duration: 4084 ms	Memory Size: 1024 MB	Max Memory Used: 478 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,478000000,4083.52
+2025-05-14 05:51:38.965,"REPORT RequestId: cd7419f6-e1c9-44c1-ba16-88e5084b03aa	Duration: 4067.79 ms	Billed Duration: 4068 ms	Memory Size: 1024 MB	Max Memory Used: 473 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,473000000,4067.79
+2025-05-14 05:51:38.953,"REPORT RequestId: ed8af8bd-25f2-4fce-945f-77750b4ba4bb	Duration: 4036.09 ms	Billed Duration: 4037 ms	Memory Size: 1024 MB	Max Memory Used: 480 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,480000000,4036.09
+2025-05-14 05:51:38.944,"REPORT RequestId: 1be19bc2-db16-479a-b53d-6cabcd6b54c0	Duration: 4056.92 ms	Billed Duration: 4057 ms	Memory Size: 1024 MB	Max Memory Used: 490 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,490000000,4056.92
+2025-05-14 05:51:37.748,"REPORT RequestId: b27b9c01-f150-4ad8-be42-e392f46854e7	Duration: 4024.53 ms	Billed Duration: 4025 ms	Memory Size: 1024 MB	Max Memory Used: 588 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,588000000,4024.53
+2025-05-14 05:51:34.863,"REPORT RequestId: c4069599-633f-493c-9d6a-044e474e4017	Duration: 3648.86 ms	Billed Duration: 3649 ms	Memory Size: 1024 MB	Max Memory Used: 427 MB	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,427000000,3648.86
+2025-05-14 05:51:34.820,"REPORT RequestId: 7595159b-5e2a-4cfb-a02f-495005b47305	Duration: 3654.05 ms	Billed Duration: 3655 ms	Memory Size: 1024 MB	Max Memory Used: 419 MB	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,419000000,3654.05
+2025-05-14 05:51:34.817,"REPORT RequestId: f9bf84d4-9673-433a-a5c8-947d066d27fc	Duration: 3648.02 ms	Billed Duration: 3649 ms	Memory Size: 1024 MB	Max Memory Used: 426 MB	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,426000000,3648.02
+2025-05-14 05:51:34.785,"REPORT RequestId: e712d334-89d4-41a8-9753-4105b8f74535	Duration: 3620.40 ms	Billed Duration: 3621 ms	Memory Size: 1024 MB	Max Memory Used: 415 MB	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,415000000,3620.4
+2025-05-14 05:51:33.527,"REPORT RequestId: 010d548a-0b40-488b-8320-2856cbd46005	Duration: 3404.62 ms	Billed Duration: 3405 ms	Memory Size: 1024 MB	Max Memory Used: 491 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,491000000,3404.62
+2025-05-14 05:51:31.137,"REPORT RequestId: ed5f4b4e-763b-4717-8a9a-bc5241179d50	Duration: 4229.66 ms	Billed Duration: 4749 ms	Memory Size: 1024 MB	Max Memory Used: 361 MB	Init Duration: 518.79 ms	
+",2025/05/14/[$LATEST]8495cd2a0f2f47ecac986622eed6d939,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,361000000,4229.66
+2025-05-14 05:51:31.079,"REPORT RequestId: efc99355-a7ef-4552-b965-ffa9600cdfdf	Duration: 4184.27 ms	Billed Duration: 4699 ms	Memory Size: 1024 MB	Max Memory Used: 351 MB	Init Duration: 514.50 ms	
+",2025/05/14/[$LATEST]0fe6bf3513e6409b80381b65214b213e,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,351000000,4184.27
+2025-05-14 05:51:31.051,"REPORT RequestId: d4e33c14-139a-4037-883f-06bcd5aa97ba	Duration: 4163.87 ms	Billed Duration: 4681 ms	Memory Size: 1024 MB	Max Memory Used: 362 MB	Init Duration: 516.47 ms	
+",2025/05/14/[$LATEST]3f135b8910c845b7a08f4ee991a6ce9b,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,362000000,4163.87
+2025-05-14 05:51:31.045,"REPORT RequestId: 85a41926-8bb6-4850-a818-d9f605aaaec8	Duration: 4170.64 ms	Billed Duration: 4671 ms	Memory Size: 1024 MB	Max Memory Used: 358 MB	Init Duration: 500.13 ms	
+",2025/05/14/[$LATEST]1a4d6471a29044369e44b2a5d30ebb4a,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,358000000,4170.64
+2025-05-14 05:51:30.010,"REPORT RequestId: a2988d0f-3782-43e0-9514-1295e828770b	Duration: 4018.22 ms	Billed Duration: 4019 ms	Memory Size: 1024 MB	Max Memory Used: 489 MB	
+",2025/05/14/[$LATEST]0491cbc574e643a9804f209a6f6f087c,256727551815:/aws/lambda/xml-parser-dev-xmlParserBun,489000000,4018.22

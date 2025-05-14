@@ -1,16 +1,22 @@
 const { XMLParser } = require('fast-xml-parser');
 
+const { extractObjectSchema } = require('./extractObjectSchema');
+
 exports.xmlParser = async event => {
   try {
     const { aws } = event;
     const { body } = aws;
-    const { xml } = JSON.parse(body);
+    const { xmlUrl } = JSON.parse(body);
+
+    const response = await fetch(xmlUrl);
+    const xml = await response.text();
 
     const parser = new XMLParser();
     const parsedXml = parser.parse(xml);
 
     return Response.json({
-      parsedXml,
+      message: 'XML parsed successfully',
+      schema: extractObjectSchema(parsedXml),
     });
   } catch (error) {
     return Response.json({

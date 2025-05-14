@@ -1,0 +1,201 @@
+@timestamp,@message,@logStream,@log,@maxMemoryUsed,@duration
+2025-05-14 04:29:55.271,"REPORT RequestId: f232f1b0-4c2f-478b-9153-4f6e00b70525	Duration: 31.33 ms	Billed Duration: 32 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,31.33
+2025-05-14 04:29:54.809,"REPORT RequestId: cc31262d-7947-4ec4-a697-578f1e6416ae	Duration: 32.25 ms	Billed Duration: 33 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,32.25
+2025-05-14 04:29:54.345,"REPORT RequestId: 7faf2d42-3561-4ac2-b46f-3cef47e9e1d5	Duration: 39.50 ms	Billed Duration: 40 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,39.5
+2025-05-14 04:29:54.243,"REPORT RequestId: 9a300856-3ab8-42b5-a783-e91493d4edd8	Duration: 43.77 ms	Billed Duration: 44 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,43.77
+2025-05-14 04:29:53.867,"REPORT RequestId: e9347d7a-b085-4ac8-b0cb-7e2c269f5b0d	Duration: 41.24 ms	Billed Duration: 42 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,41.24
+2025-05-14 04:29:53.604,"REPORT RequestId: 9a15f11d-c30c-442f-91cd-2b8477c0bae0	Duration: 39.80 ms	Billed Duration: 40 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,39.8
+2025-05-14 04:29:53.315,"REPORT RequestId: 5cf90d8c-0b10-4615-b4a4-41dcaa42cfc2	Duration: 35.42 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.42
+2025-05-14 04:29:52.948,"REPORT RequestId: a678b145-f814-446c-a75a-0599fdc3d544	Duration: 36.43 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,36.43
+2025-05-14 04:29:52.751,"REPORT RequestId: 975d9916-c77f-42ed-b58d-bd26c33ae6e5	Duration: 35.48 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.48
+2025-05-14 04:29:52.544,"REPORT RequestId: 73704cf1-4e61-4750-b119-572882df2f4c	Duration: 35.51 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.51
+2025-05-14 04:29:52.207,"REPORT RequestId: 24c034d9-9e01-4e10-b1db-885ae316f447	Duration: 45.33 ms	Billed Duration: 46 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,45.33
+2025-05-14 04:29:52.179,"REPORT RequestId: 74cd46f2-c5d9-4217-99a4-5177b155134c	Duration: 40.56 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 181 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,181000000,40.56
+2025-05-14 04:29:51.901,"REPORT RequestId: eba99a5d-1b83-44ad-a80f-a92694003bd1	Duration: 44.29 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 181 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,181000000,44.29
+2025-05-14 04:29:51.521,"REPORT RequestId: 0fa9147e-882a-44d5-ae40-1b28178262cd	Duration: 61.19 ms	Billed Duration: 62 ms	Memory Size: 1024 MB	Max Memory Used: 181 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,181000000,61.19
+2025-05-14 04:29:51.377,"REPORT RequestId: f4e2e6a7-76f2-4787-b026-985e200d973f	Duration: 56.22 ms	Billed Duration: 57 ms	Memory Size: 1024 MB	Max Memory Used: 172 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,172000000,56.22
+2025-05-14 04:29:51.162,"REPORT RequestId: 801de514-9b8b-4664-8359-630a427cf477	Duration: 36.53 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 166 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,166000000,36.53
+2025-05-14 04:29:50.837,"REPORT RequestId: d37ee459-762a-4fdb-8f06-84c16771373f	Duration: 62.06 ms	Billed Duration: 63 ms	Memory Size: 1024 MB	Max Memory Used: 166 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,166000000,62.06
+2025-05-14 04:29:50.417,"REPORT RequestId: fac325b4-4b50-404d-a994-145a39590ba5	Duration: 54.27 ms	Billed Duration: 55 ms	Memory Size: 1024 MB	Max Memory Used: 159 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,159000000,54.27
+2025-05-14 04:29:50.387,"REPORT RequestId: 6e491604-945e-4ecc-9dbd-418bef0a25fe	Duration: 36.16 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,36.16
+2025-05-14 04:29:50.328,"REPORT RequestId: 63083cef-43ef-43cb-a1a5-d32f1ce56f90	Duration: 35.53 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.53
+2025-05-14 04:29:50.048,"REPORT RequestId: 1b57b307-a83e-40a4-a9e2-0df84dff5985	Duration: 43.77 ms	Billed Duration: 44 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,43.77
+2025-05-14 04:29:49.985,"REPORT RequestId: bf01af9e-adc7-4c16-9af6-51d52e4b5c20	Duration: 35.68 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.68
+2025-05-14 04:29:49.925,"REPORT RequestId: 71181a35-6466-44e6-874c-98708051fbb7	Duration: 35.41 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,35.41
+2025-05-14 04:29:49.511,"REPORT RequestId: 12ba7d2c-084d-441f-963a-d5bef9ea38f1	Duration: 38.45 ms	Billed Duration: 39 ms	Memory Size: 1024 MB	Max Memory Used: 191 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,191000000,38.45
+2025-05-14 04:29:49.166,"REPORT RequestId: 6004305d-c3ad-424f-8eaf-855336a8a324	Duration: 35.61 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 190 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,190000000,35.61
+2025-05-14 04:29:49.107,"REPORT RequestId: deaf0397-ceae-4a32-a70a-6ebe6ab169f3	Duration: 51.90 ms	Billed Duration: 52 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,51.9
+2025-05-14 04:29:49.065,"REPORT RequestId: 1e996949-f624-424a-b2b5-6b46cca0dac9	Duration: 40.04 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 151 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,151000000,40.04
+2025-05-14 04:29:49.044,"REPORT RequestId: 58b7655f-18b2-4ad9-9938-543d5e42a477	Duration: 35.55 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,35.55
+2025-05-14 04:29:48.988,"REPORT RequestId: 97f2ed60-0672-4e15-b1e1-a44d53c64165	Duration: 48.46 ms	Billed Duration: 49 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,48.46
+2025-05-14 04:29:48.525,"REPORT RequestId: ef6c7abe-9f86-4d7e-8698-d6c5a4f07aef	Duration: 43.81 ms	Billed Duration: 44 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,43.81
+2025-05-14 04:29:48.478,"REPORT RequestId: 675a81cf-f7c1-45b9-9ec3-cb7e8943da12	Duration: 122.60 ms	Billed Duration: 123 ms	Memory Size: 1024 MB	Max Memory Used: 151 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,151000000,122.6
+2025-05-14 04:29:48.177,"REPORT RequestId: 2321e889-bea1-4f14-8557-e69b7ca14876	Duration: 54.13 ms	Billed Duration: 55 ms	Memory Size: 1024 MB	Max Memory Used: 151 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,151000000,54.13
+2025-05-14 04:29:48.149,"REPORT RequestId: 4cf29db9-0007-4754-9b38-e70e997c4360	Duration: 35.69 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,35.69
+2025-05-14 04:29:48.024,"REPORT RequestId: a2ca8e4b-8017-4de6-a786-ea7e9744ac70	Duration: 36.63 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,36.63
+2025-05-14 04:29:47.904,"REPORT RequestId: 35b5706e-e031-4f51-b0fb-fc0bcce5f823	Duration: 47.65 ms	Billed Duration: 48 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,47.65
+2025-05-14 04:29:47.844,"REPORT RequestId: c3546d6c-5484-4a4b-af61-fe7f0a858d14	Duration: 35.39 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,35.39
+2025-05-14 04:29:47.565,"REPORT RequestId: 24e04770-a0c7-410b-9932-569d4df7e23a	Duration: 48.85 ms	Billed Duration: 49 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,48.85
+2025-05-14 04:29:47.267,"REPORT RequestId: 4272f637-f906-49b0-9774-1eec0d0f5e3f	Duration: 36.39 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,36.39
+2025-05-14 04:29:46.985,"REPORT RequestId: 2a7943e3-7104-424e-854b-2a6e7e55eb25	Duration: 35.57 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,35.57
+2025-05-14 04:29:46.904,"REPORT RequestId: 210a36fe-93ea-48cd-870e-0534a5b27054	Duration: 49.49 ms	Billed Duration: 50 ms	Memory Size: 1024 MB	Max Memory Used: 189 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,189000000,49.49
+2025-05-14 04:29:46.826,"REPORT RequestId: b0bc3bde-7090-4299-9f87-9de1634cbe1e	Duration: 35.67 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 188 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,188000000,35.67
+2025-05-14 04:29:46.703,"REPORT RequestId: 7f334a4a-4229-45a9-a383-35ae5f2d7d94	Duration: 49.14 ms	Billed Duration: 50 ms	Memory Size: 1024 MB	Max Memory Used: 188 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,188000000,49.14
+2025-05-14 04:29:46.665,"REPORT RequestId: 71284e00-75b1-46cd-9b59-e9bc752ddc57	Duration: 47.11 ms	Billed Duration: 48 ms	Memory Size: 1024 MB	Max Memory Used: 150 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,150000000,47.11
+2025-05-14 04:29:46.357,"REPORT RequestId: 7cacac39-36d1-4246-b8a2-dfcf89bb04cc	Duration: 54.38 ms	Billed Duration: 55 ms	Memory Size: 1024 MB	Max Memory Used: 148 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,148000000,54.38
+2025-05-14 04:29:46.345,"REPORT RequestId: b5e2bfa6-1995-4664-b93f-6c8f9b8fee5e	Duration: 54.02 ms	Billed Duration: 55 ms	Memory Size: 1024 MB	Max Memory Used: 188 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,188000000,54.02
+2025-05-14 04:29:46.317,"REPORT RequestId: d2837dab-17e6-4c42-ad2a-99adfa917a36	Duration: 40.32 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 175 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,175000000,40.32
+2025-05-14 04:29:46.269,"REPORT RequestId: c3e1a9fc-d2da-414e-9c4f-8fa50c859167	Duration: 35.57 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 185 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,185000000,35.57
+2025-05-14 04:29:45.946,"REPORT RequestId: 611cef83-d849-4906-b783-973a722401eb	Duration: 35.84 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 185 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,185000000,35.84
+2025-05-14 04:29:45.915,"REPORT RequestId: 8096d69e-e6c8-45ac-a1f5-e471e097dd5f	Duration: 43.82 ms	Billed Duration: 44 ms	Memory Size: 1024 MB	Max Memory Used: 175 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,175000000,43.82
+2025-05-14 04:29:45.845,"REPORT RequestId: d00529c2-bb34-40d5-93e9-0289267afbd6	Duration: 60.58 ms	Billed Duration: 61 ms	Memory Size: 1024 MB	Max Memory Used: 175 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,175000000,60.58
+2025-05-14 04:29:45.683,"REPORT RequestId: c6e78a86-590b-4c1d-bdeb-033b9279f6d7	Duration: 53.30 ms	Billed Duration: 54 ms	Memory Size: 1024 MB	Max Memory Used: 165 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,165000000,53.3
+2025-05-14 04:29:45.576,"REPORT RequestId: 791808c4-f3de-4a2b-b9ed-0136604490be	Duration: 40.08 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 159 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,159000000,40.08
+2025-05-14 04:29:45.059,"REPORT RequestId: ee8d008d-ba78-4868-a259-04d0d1e96363	Duration: 56.64 ms	Billed Duration: 57 ms	Memory Size: 1024 MB	Max Memory Used: 159 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,159000000,56.64
+2025-05-14 04:29:45.010,"REPORT RequestId: 14987023-970e-468d-8cfe-60cb58e7d070	Duration: 44.78 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 185 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,185000000,44.78
+2025-05-14 04:29:44.945,"REPORT RequestId: 223d4974-68ac-40d7-8134-03f068e36caa	Duration: 40.26 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,40.26
+2025-05-14 04:29:44.708,"REPORT RequestId: 3b64f2a0-42be-42ea-8b73-0873d68c9571	Duration: 35.77 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,35.77
+2025-05-14 04:29:44.224,"REPORT RequestId: 4af88e6f-fc5e-4ca1-b2fc-f939dd5a8f75	Duration: 35.48 ms	Billed Duration: 36 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,35.48
+2025-05-14 04:29:44.163,"REPORT RequestId: 97b5e815-9226-432c-85de-0b2f2e34f139	Duration: 44.84 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,44.84
+2025-05-14 04:29:44.159,"REPORT RequestId: 7053a0de-cb1c-48da-80a8-f8f4e7b8c61f	Duration: 40.41 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,149000000,40.41
+2025-05-14 04:29:44.097,"REPORT RequestId: d8b927a1-785b-46c7-a35f-07cd66d89742	Duration: 40.74 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 147 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,147000000,40.74
+2025-05-14 04:29:44.071,"REPORT RequestId: f17a6fc7-0acf-4b0c-af6d-63e5db2f9042	Duration: 36.47 ms	Billed Duration: 37 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,36.47
+2025-05-14 04:29:43.956,"REPORT RequestId: 07bb2b9a-f548-4a51-af6b-8af98ca3601e	Duration: 40.15 ms	Billed Duration: 41 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,40.15
+2025-05-14 04:29:43.825,"REPORT RequestId: 4ce23b74-be01-4600-a36d-1152ad765b8c	Duration: 64.11 ms	Billed Duration: 65 ms	Memory Size: 1024 MB	Max Memory Used: 182 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,182000000,64.11
+2025-05-14 04:29:43.817,"REPORT RequestId: efe696b6-bf25-47fa-a80d-77dd31aecf14	Duration: 115.44 ms	Billed Duration: 116 ms	Memory Size: 1024 MB	Max Memory Used: 147 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,147000000,115.44
+2025-05-14 04:29:43.714,"REPORT RequestId: 6cc8cde5-43d3-46b1-8585-ee554d2c96a1	Duration: 52.61 ms	Billed Duration: 53 ms	Memory Size: 1024 MB	Max Memory Used: 173 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,173000000,52.61
+2025-05-14 04:29:43.674,"REPORT RequestId: 1cc218a9-b411-42db-b03f-ca3b5fde937c	Duration: 44.88 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 145 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,145000000,44.88
+2025-05-14 04:29:43.334,"REPORT RequestId: dd9d9a48-8590-441c-bf63-7071d844715a	Duration: 51.27 ms	Billed Duration: 52 ms	Memory Size: 1024 MB	Max Memory Used: 144 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,144000000,51.27
+2025-05-14 04:29:42.876,"REPORT RequestId: 7f70ea32-26ed-416b-919a-cc094e3d1d8e	Duration: 44.63 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 143 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,143000000,44.63
+2025-05-14 04:29:42.815,"REPORT RequestId: 1dd727cb-b5de-4fa2-96ea-ad5873d2886f	Duration: 46.91 ms	Billed Duration: 47 ms	Memory Size: 1024 MB	Max Memory Used: 143 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,143000000,46.91
+2025-05-14 04:29:42.333,"REPORT RequestId: e93fae78-f493-4173-9bc7-35a7b3bc76d8	Duration: 60.79 ms	Billed Duration: 61 ms	Memory Size: 1024 MB	Max Memory Used: 143 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,143000000,60.79
+2025-05-14 04:29:42.257,"REPORT RequestId: 44646648-a2b6-406b-9e50-d59d4772d405	Duration: 45.73 ms	Billed Duration: 46 ms	Memory Size: 1024 MB	Max Memory Used: 141 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,141000000,45.73
+2025-05-14 04:29:42.244,"REPORT RequestId: 7069f41a-5fa8-48fa-8ed9-fa0f1c09f9a3	Duration: 45.33 ms	Billed Duration: 46 ms	Memory Size: 1024 MB	Max Memory Used: 167 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,167000000,45.33
+2025-05-14 04:29:42.187,"REPORT RequestId: c04bc36c-7e79-4c88-8149-ac40542edb02	Duration: 64.82 ms	Billed Duration: 65 ms	Memory Size: 1024 MB	Max Memory Used: 167 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,167000000,64.82
+2025-05-14 04:29:42.024,"REPORT RequestId: 1f15fccb-fac2-4dff-b51d-c6a20dba2697	Duration: 60.48 ms	Billed Duration: 61 ms	Memory Size: 1024 MB	Max Memory Used: 157 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,157000000,60.48
+2025-05-14 04:29:41.955,"REPORT RequestId: 4a69fc23-0138-4ab8-938a-bdef001b8047	Duration: 47.29 ms	Billed Duration: 48 ms	Memory Size: 1024 MB	Max Memory Used: 141 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,141000000,47.29
+2025-05-14 04:29:41.924,"REPORT RequestId: 6012ac6d-5075-4294-96f2-9e999db68a9a	Duration: 44.79 ms	Billed Duration: 45 ms	Memory Size: 1024 MB	Max Memory Used: 152 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,152000000,44.79
+2025-05-14 04:29:41.667,"REPORT RequestId: 5627a875-1ff1-4dc8-b758-b6e48d9bd011	Duration: 117.34 ms	Billed Duration: 118 ms	Memory Size: 1024 MB	Max Memory Used: 152 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,152000000,117.34
+2025-05-14 04:29:41.131,"REPORT RequestId: 5430fdfc-69b1-4a4d-9e7d-45b8cb68d313	Duration: 46.87 ms	Billed Duration: 47 ms	Memory Size: 1024 MB	Max Memory Used: 151 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,151000000,46.87
+2025-05-14 04:29:41.117,"REPORT RequestId: 2c499199-c221-4222-ace0-e575d88b0a36	Duration: 49.70 ms	Billed Duration: 50 ms	Memory Size: 1024 MB	Max Memory Used: 141 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,141000000,49.7
+2025-05-14 04:29:40.721,"REPORT RequestId: 44a4d8e9-002d-4e3a-b87f-dae7775f1725	Duration: 42.13 ms	Billed Duration: 43 ms	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,140000000,42.13
+2025-05-14 04:29:40.437,"REPORT RequestId: 6aac59f5-5dc5-4fa2-833e-1ebd86389669	Duration: 64.39 ms	Billed Duration: 65 ms	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,140000000,64.39
+2025-05-14 04:29:40.371,"REPORT RequestId: 1a13d1bb-fd47-48b6-a854-c3a648acf734	Duration: 52.03 ms	Billed Duration: 53 ms	Memory Size: 1024 MB	Max Memory Used: 150 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,150000000,52.03
+2025-05-14 04:29:40.354,"REPORT RequestId: 053a3cb3-5db7-4a81-9b9a-9a4b2e58f795	Duration: 68.27 ms	Billed Duration: 69 ms	Memory Size: 1024 MB	Max Memory Used: 132 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,132000000,68.27
+2025-05-14 04:29:40.288,"REPORT RequestId: a9b65fc1-5b54-4d0b-969f-bad427f05637	Duration: 46.68 ms	Billed Duration: 47 ms	Memory Size: 1024 MB	Max Memory Used: 148 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,148000000,46.68
+2025-05-14 04:29:40.281,"REPORT RequestId: 0a6f69e0-5f17-4a1a-a132-db1909e3958f	Duration: 72.38 ms	Billed Duration: 73 ms	Memory Size: 1024 MB	Max Memory Used: 148 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,148000000,72.38
+2025-05-14 04:29:40.210,"REPORT RequestId: 3f9a6a9d-6a73-448d-b860-00c84ce24e2a	Duration: 66.43 ms	Billed Duration: 67 ms	Memory Size: 1024 MB	Max Memory Used: 148 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,148000000,66.43
+2025-05-14 04:29:40.160,"REPORT RequestId: db41f145-2b2c-44b2-86df-6a43b13e7a34	Duration: 58.64 ms	Billed Duration: 59 ms	Memory Size: 1024 MB	Max Memory Used: 141 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,141000000,58.64
+2025-05-14 04:29:40.126,"REPORT RequestId: da5f76a7-9ce3-4c19-89bf-a345be95294d	Duration: 70.18 ms	Billed Duration: 71 ms	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,140000000,70.18
+2025-05-14 04:29:40.067,"REPORT RequestId: 56276ccb-4a54-480f-8041-baa92d2d6352	Duration: 47.62 ms	Billed Duration: 48 ms	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,133000000,47.62
+2025-05-14 04:29:40.035,"REPORT RequestId: 77cdbdda-1387-46ce-a2e4-77d4179b0254	Duration: 48.15 ms	Billed Duration: 49 ms	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,133000000,48.15
+2025-05-14 04:29:39.905,"REPORT RequestId: b93f29a4-1adb-419b-9ee2-4351cc8bb047	Duration: 140.43 ms	Billed Duration: 141 ms	Memory Size: 1024 MB	Max Memory Used: 129 MB	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,129000000,140.43
+2025-05-14 04:29:39.857,"REPORT RequestId: bf881245-1388-4cbc-bb15-4f7accb706be	Duration: 143.76 ms	Billed Duration: 144 ms	Memory Size: 1024 MB	Max Memory Used: 130 MB	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,130000000,143.76
+2025-05-14 04:29:39.837,"REPORT RequestId: f9115531-234e-4029-95d7-48b67650b8f6	Duration: 118.70 ms	Billed Duration: 119 ms	Memory Size: 1024 MB	Max Memory Used: 123 MB	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,123000000,118.7
+2025-05-14 04:29:39.817,"REPORT RequestId: 5cc1fb81-e30c-4656-bc53-8d8e36f06600	Duration: 81.74 ms	Billed Duration: 82 ms	Memory Size: 1024 MB	Max Memory Used: 123 MB	
+",2025/05/14/[$LATEST]51e3fc6a3b914ccb8aae033ae8746062,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,123000000,81.74
+2025-05-14 04:29:39.807,"REPORT RequestId: 5ab595ff-a7bb-4796-9995-3e2954e1e66f	Duration: 91.86 ms	Billed Duration: 92 ms	Memory Size: 1024 MB	Max Memory Used: 129 MB	
+",2025/05/14/[$LATEST]d91e7e6927dd499b889189dc7294a62b,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,129000000,91.86
+2025-05-14 04:29:39.443,"REPORT RequestId: 39b4128b-97ca-4501-baf0-ff751b8015a5	Duration: 149.99 ms	Billed Duration: 150 ms	Memory Size: 1024 MB	Max Memory Used: 119 MB	Init Duration: 929.31 ms	
+",2025/05/14/[$LATEST]d91e7e6927dd499b889189dc7294a62b,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,119000000,149.99
+2025-05-14 04:29:39.418,"REPORT RequestId: bcab2b41-9066-4fb3-8b72-aa204a9ec980	Duration: 115.15 ms	Billed Duration: 116 ms	Memory Size: 1024 MB	Max Memory Used: 120 MB	Init Duration: 961.59 ms	
+",2025/05/14/[$LATEST]2d48cafc73364613949eb29f30dc2af7,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,120000000,115.15
+2025-05-14 04:29:39.398,"REPORT RequestId: 8c1f5259-ec94-487b-8cb5-516f830ffee8	Duration: 118.22 ms	Billed Duration: 119 ms	Memory Size: 1024 MB	Max Memory Used: 120 MB	Init Duration: 943.79 ms	
+",2025/05/14/[$LATEST]680381fdad314423ba603b278d53324f,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,120000000,118.22
+2025-05-14 04:29:39.397,"REPORT RequestId: 24447c40-a174-4916-b82c-06f29d92bdfa	Duration: 165.98 ms	Billed Duration: 166 ms	Memory Size: 1024 MB	Max Memory Used: 120 MB	Init Duration: 916.24 ms	
+",2025/05/14/[$LATEST]51e3fc6a3b914ccb8aae033ae8746062,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,120000000,165.98
+2025-05-14 04:29:39.371,"REPORT RequestId: e20499e1-4489-4bc6-8bd3-848161c50223	Duration: 119.98 ms	Billed Duration: 120 ms	Memory Size: 1024 MB	Max Memory Used: 120 MB	Init Duration: 926.41 ms	
+",2025/05/14/[$LATEST]4cad83e8ce6a4b21a97f278e59d17af3,256727551815:/aws/lambda/dijsktra-solver-dev-dijkstraSolverNode,120000000,119.98

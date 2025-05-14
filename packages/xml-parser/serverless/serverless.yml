@@ -13,12 +13,14 @@ provider:
 functions:
   xmlParserNode:
     handler: nodeHandler.xmlParser
+    timeout: 900
     events:
       - httpApi:
           path: /
           method: post
   xmlParserBun:
     handler: bunHandler.xmlParser
+    timeout: 900
     runtime: provided.al2
     architecture: arm64
     layers:

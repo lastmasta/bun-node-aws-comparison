@@ -1,0 +1,201 @@
+@timestamp,@message,@logStream,@log,@maxMemoryUsed,@duration
+2025-05-14 04:56:43.180,"REPORT RequestId: 4959b115-9fab-4212-af41-a278a80e4d3c	Duration: 4311.50 ms	Billed Duration: 4312 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4311.5
+2025-05-14 04:56:42.462,"REPORT RequestId: a18b162e-dc28-4204-8d14-6f0e23690c6f	Duration: 4240.96 ms	Billed Duration: 4241 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4240.96
+2025-05-14 04:56:42.249,"REPORT RequestId: 665f869f-b15a-44da-ab88-4f09e0000bd0	Duration: 4245.96 ms	Billed Duration: 4246 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4245.96
+2025-05-14 04:56:41.952,"REPORT RequestId: 10f91c50-7b2f-42be-8b2a-bba045c4b760	Duration: 4277.19 ms	Billed Duration: 4278 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4277.19
+2025-05-14 04:56:41.855,"REPORT RequestId: 9eef95a0-f216-4509-b822-9c2fd027cfb5	Duration: 4183.16 ms	Billed Duration: 4184 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4183.16
+2025-05-14 04:56:38.756,"REPORT RequestId: 6dff58b4-7103-4ed5-b7cb-1ac0401a18f6	Duration: 4310.05 ms	Billed Duration: 4311 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4310.05
+2025-05-14 04:56:38.107,"REPORT RequestId: 41b855e1-75ba-4a61-b7c6-f7b7954110cb	Duration: 4250.79 ms	Billed Duration: 4251 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4250.79
+2025-05-14 04:56:37.874,"REPORT RequestId: 1c26f604-99d3-42e5-a28b-509094785199	Duration: 4178.69 ms	Billed Duration: 4179 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4178.69
+2025-05-14 04:56:37.567,"REPORT RequestId: 6735a75a-5fe9-4214-9d92-90d04119d86d	Duration: 4196.48 ms	Billed Duration: 4197 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4196.48
+2025-05-14 04:56:37.532,"REPORT RequestId: 8d2f662b-9b02-4ec0-86f4-9f60b0b9aab9	Duration: 4165.11 ms	Billed Duration: 4166 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4165.11
+2025-05-14 04:56:34.336,"REPORT RequestId: 10b74637-ceb0-4240-83c9-33d506bc438d	Duration: 4246.00 ms	Billed Duration: 4246 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4246
+2025-05-14 04:56:33.745,"REPORT RequestId: 32b95858-6479-4a31-93bd-4bcd9ee4dcd7	Duration: 4337.57 ms	Billed Duration: 4338 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4337.57
+2025-05-14 04:56:33.588,"REPORT RequestId: 73c9b1d0-1975-4c0d-8dde-7683870b5970	Duration: 4360.87 ms	Billed Duration: 4361 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4360.87
+2025-05-14 04:56:33.251,"REPORT RequestId: 797d0814-e88a-46ca-8c29-ea36b7263031	Duration: 4209.74 ms	Billed Duration: 4210 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4209.74
+2025-05-14 04:56:33.207,"REPORT RequestId: e4318795-bd83-4eae-b34a-318a972782d4	Duration: 4363.07 ms	Billed Duration: 4364 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4363.07
+2025-05-14 04:56:29.977,"REPORT RequestId: 9a6559eb-a0e4-4972-8045-d3e0c8723d83	Duration: 4282.89 ms	Billed Duration: 4283 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4282.89
+2025-05-14 04:56:29.213,"REPORT RequestId: 5efea1e8-ef97-4ecf-87c7-4e79c02a8e28	Duration: 4392.08 ms	Billed Duration: 4393 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4392.08
+2025-05-14 04:56:29.104,"REPORT RequestId: b5bb635e-28c9-4957-bf89-2dde8002ce85	Duration: 4278.99 ms	Billed Duration: 4279 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4278.99
+2025-05-14 04:56:28.808,"REPORT RequestId: 03c96682-05b5-418b-90a1-57ffd1794042	Duration: 4348.82 ms	Billed Duration: 4349 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4348.82
+2025-05-14 04:56:28.735,"REPORT RequestId: 92920e3f-3d87-46d4-9fc1-dc7ce9ef1feb	Duration: 4275.35 ms	Billed Duration: 4276 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4275.35
+2025-05-14 04:56:25.536,"REPORT RequestId: fcd77618-f8fd-4073-9846-3dabcad3ded9	Duration: 4331.78 ms	Billed Duration: 4332 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4331.78
+2025-05-14 04:56:24.712,"REPORT RequestId: 760037f5-f793-42e2-870a-3bebdcaf616e	Duration: 4238.02 ms	Billed Duration: 4239 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4238.02
+2025-05-14 04:56:24.708,"REPORT RequestId: 2e6715b5-5096-4af1-a95b-e534bb62c97d	Duration: 4215.79 ms	Billed Duration: 4216 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4215.79
+2025-05-14 04:56:24.326,"REPORT RequestId: 72b74b2c-57d0-42e6-a331-7f21c43e1bc0	Duration: 4237.91 ms	Billed Duration: 4238 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4237.91
+2025-05-14 04:56:24.291,"REPORT RequestId: eac74ae5-e61c-46f6-86e8-8729c9c40ada	Duration: 4232.47 ms	Billed Duration: 4233 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4232.47
+2025-05-14 04:56:21.079,"REPORT RequestId: 898b65bd-1c9a-49be-b5ba-6f61c6543738	Duration: 4193.38 ms	Billed Duration: 4194 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4193.38
+2025-05-14 04:56:20.386,"REPORT RequestId: e5099835-8ecc-455f-86d5-527f9deaac23	Duration: 4281.59 ms	Billed Duration: 4282 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4281.59
+2025-05-14 04:56:20.307,"REPORT RequestId: ff761a9d-4885-40c1-a5e3-d18064850494	Duration: 4126.31 ms	Billed Duration: 4127 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4126.31
+2025-05-14 04:56:19.989,"REPORT RequestId: 13b78730-5368-4985-a897-463a20b9d53d	Duration: 4087.73 ms	Billed Duration: 4088 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4087.73
+2025-05-14 04:56:19.948,"REPORT RequestId: fe896cfa-ab82-4b83-9e4c-401668147ead	Duration: 4148.52 ms	Billed Duration: 4149 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4148.52
+2025-05-14 04:56:16.759,"REPORT RequestId: 4e044e7f-0552-4f2f-8221-c56c2595399d	Duration: 4252.17 ms	Billed Duration: 4253 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4252.17
+2025-05-14 04:56:16.072,"REPORT RequestId: 7f15b892-0e34-46bb-82ec-99a881a98f71	Duration: 4354.31 ms	Billed Duration: 4355 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4354.31
+2025-05-14 04:56:15.985,"REPORT RequestId: 889759b9-bd27-4151-b067-7ffcc0a9c988	Duration: 4246.66 ms	Billed Duration: 4247 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4246.66
+2025-05-14 04:56:15.793,"REPORT RequestId: a9904b20-c61e-4958-ab1d-480d06d0a4cc	Duration: 4307.59 ms	Billed Duration: 4308 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4307.59
+2025-05-14 04:56:15.691,"REPORT RequestId: e0ade766-bfb8-4618-bc89-6c3721a6fdc3	Duration: 4149.06 ms	Billed Duration: 4150 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4149.06
+2025-05-14 04:56:12.399,"REPORT RequestId: 8e47864c-6bd1-4e75-bad6-148ba8004aa5	Duration: 4321.44 ms	Billed Duration: 4322 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4321.44
+2025-05-14 04:56:11.623,"REPORT RequestId: 5a320a14-69a4-49a7-8efd-3914592a0f55	Duration: 4382.74 ms	Billed Duration: 4383 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4382.74
+2025-05-14 04:56:11.604,"REPORT RequestId: 89d55010-3bfa-4ef5-b1b6-cb29b95cce43	Duration: 4303.22 ms	Billed Duration: 4304 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4303.22
+2025-05-14 04:56:11.450,"REPORT RequestId: 7463daec-8471-4721-a377-e954a8ea559b	Duration: 4249.72 ms	Billed Duration: 4250 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4249.72
+2025-05-14 04:56:11.377,"REPORT RequestId: ffe0739b-1315-47a8-b016-1dcd4eeb2e6d	Duration: 4324.19 ms	Billed Duration: 4325 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4324.19
+2025-05-14 04:56:07.939,"REPORT RequestId: 371a4636-95c2-419b-9bbc-eec14b364662	Duration: 4257.86 ms	Billed Duration: 4258 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4257.86
+2025-05-14 04:56:07.189,"REPORT RequestId: c29394bb-d376-4315-b8b4-3a7d46a5dcd6	Duration: 4194.80 ms	Billed Duration: 4195 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4194.8
+2025-05-14 04:56:07.128,"REPORT RequestId: 86e76f88-5cca-411b-95a1-a503cfa2d0fe	Duration: 4301.56 ms	Billed Duration: 4302 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4301.56
+2025-05-14 04:56:07.093,"REPORT RequestId: 99179554-a156-4a97-8801-a3b22a2a61ee	Duration: 4188.51 ms	Billed Duration: 4189 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4188.51
+2025-05-14 04:56:06.914,"REPORT RequestId: 08805a30-2a94-4ba8-a2a1-96c6c536f116	Duration: 4190.14 ms	Billed Duration: 4191 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4190.14
+2025-05-14 04:56:03.534,"REPORT RequestId: 78b2f8b4-2973-490a-93e9-ca8952b75f6d	Duration: 4225.76 ms	Billed Duration: 4226 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4225.76
+2025-05-14 04:56:02.872,"REPORT RequestId: ea46035f-4a78-4a17-8e0f-bed369191dd8	Duration: 4188.21 ms	Billed Duration: 4189 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4188.21
+2025-05-14 04:56:02.793,"REPORT RequestId: 7f13cb44-2ecb-45cd-9a8d-3a6ca8863887	Duration: 4258.90 ms	Billed Duration: 4259 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4258.9
+2025-05-14 04:56:02.709,"REPORT RequestId: d814cc01-ee58-46f3-87bd-8a1e6b616252	Duration: 4106.23 ms	Billed Duration: 4107 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4106.23
+2025-05-14 04:56:02.612,"REPORT RequestId: 2754803c-5ed8-4a0a-9459-cf9059562c4d	Duration: 4254.01 ms	Billed Duration: 4255 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4254.01
+2025-05-14 04:55:59.199,"REPORT RequestId: 4a5e0bd5-3772-456e-99ff-2604b14dbbf4	Duration: 4281.74 ms	Billed Duration: 4282 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4281.74
+2025-05-14 04:55:58.571,"REPORT RequestId: aceb4808-806b-48c3-955b-780573879ae4	Duration: 4199.76 ms	Billed Duration: 4200 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4199.76
+2025-05-14 04:55:58.490,"REPORT RequestId: a52eb42f-9190-4563-bb7e-a97453cb83c4	Duration: 4345.21 ms	Billed Duration: 4346 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4345.21
+2025-05-14 04:55:58.425,"REPORT RequestId: 72bfa79d-9bc8-4c3f-aadd-1296fc29750c	Duration: 4275.05 ms	Billed Duration: 4276 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4275.05
+2025-05-14 04:55:58.172,"REPORT RequestId: b13ffb10-18b4-4dbe-89b4-287afdd158c9	Duration: 4327.49 ms	Billed Duration: 4328 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4327.49
+2025-05-14 04:55:54.797,"REPORT RequestId: c72bb550-d407-4f5d-ba32-97f460103ec3	Duration: 4284.89 ms	Billed Duration: 4285 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4284.89
+2025-05-14 04:55:54.256,"REPORT RequestId: 07f1fd4d-f101-4caf-95cc-8cce19e86d31	Duration: 4270.11 ms	Billed Duration: 4271 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4270.11
+2025-05-14 04:55:54.034,"REPORT RequestId: c93409c7-525a-4e91-af70-dac8bcb8201d	Duration: 4355.62 ms	Billed Duration: 4356 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4355.62
+2025-05-14 04:55:54.028,"REPORT RequestId: 95919ce1-110f-48ff-a9c0-5f87a5885b21	Duration: 4259.89 ms	Billed Duration: 4260 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4259.89
+2025-05-14 04:55:53.695,"REPORT RequestId: 883786dc-96f6-436d-8cac-1ec63a8f6d1a	Duration: 4266.88 ms	Billed Duration: 4267 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4266.88
+2025-05-14 04:55:50.399,"REPORT RequestId: 0260e480-0fd5-4cba-8060-4273a370da2f	Duration: 4316.36 ms	Billed Duration: 4317 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4316.36
+2025-05-14 04:55:49.868,"REPORT RequestId: bc487af3-66b9-4c0d-bb93-3aff8696df85	Duration: 4322.53 ms	Billed Duration: 4323 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4322.53
+2025-05-14 04:55:49.657,"REPORT RequestId: a9736386-09f6-4d94-9221-3e9834381ec6	Duration: 4220.07 ms	Billed Duration: 4221 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4220.07
+2025-05-14 04:55:49.568,"REPORT RequestId: 4721710f-98e7-4a45-958e-48ad4d5151ea	Duration: 4194.73 ms	Billed Duration: 4195 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4194.73
+2025-05-14 04:55:49.310,"REPORT RequestId: d0a80849-c44e-450d-b9b1-fde5d1fe1577	Duration: 4165.26 ms	Billed Duration: 4166 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4165.26
+2025-05-14 04:55:45.961,"REPORT RequestId: 5c42b121-bd03-40a5-a747-55c492266f3d	Duration: 4183.90 ms	Billed Duration: 4184 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4183.9
+2025-05-14 04:55:45.433,"REPORT RequestId: 56b50a21-9b11-4189-84a2-ec65c5363c01	Duration: 4307.45 ms	Billed Duration: 4308 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4307.45
+2025-05-14 04:55:45.341,"REPORT RequestId: 087f6ccb-0336-4ee6-8d49-14b1f4d7326a	Duration: 4113.99 ms	Billed Duration: 4114 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4113.99
+2025-05-14 04:55:45.259,"REPORT RequestId: bd9bd3f3-38af-4c50-a858-9bd9b32dd2c0	Duration: 4153.09 ms	Billed Duration: 4154 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4153.09
+2025-05-14 04:55:44.991,"REPORT RequestId: b2ffdb0b-5596-4663-ad2f-f04a792fe037	Duration: 4216.96 ms	Billed Duration: 4217 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4216.96
+2025-05-14 04:55:41.673,"REPORT RequestId: e2bebfeb-7d0d-4b19-bf4b-9e9de9455952	Duration: 4134.73 ms	Billed Duration: 4135 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4134.73
+2025-05-14 04:55:41.113,"REPORT RequestId: eb09f1ed-3d97-4e51-bf62-0d0d83aa1d79	Duration: 4415.97 ms	Billed Duration: 4416 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4415.97
+2025-05-14 04:55:41.014,"REPORT RequestId: e1e54ed2-b14d-487f-9e8e-4ae71ac63ce5	Duration: 4123.57 ms	Billed Duration: 4124 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4123.57
+2025-05-14 04:55:40.985,"REPORT RequestId: 34fb99ed-d8d4-4b1f-bb29-23d195009104	Duration: 4278.12 ms	Billed Duration: 4279 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4278.12
+2025-05-14 04:55:40.661,"REPORT RequestId: bc5aafd8-59d3-436e-9215-c53711a6c65c	Duration: 4323.50 ms	Billed Duration: 4324 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4323.5
+2025-05-14 04:55:37.419,"REPORT RequestId: f0a124ed-52aa-47f5-bec0-3982ea222b7d	Duration: 4343.54 ms	Billed Duration: 4344 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4343.54
+2025-05-14 04:55:36.773,"REPORT RequestId: ab2cdb79-6277-4232-892d-061df2114057	Duration: 4249.31 ms	Billed Duration: 4250 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4249.31
+2025-05-14 04:55:36.594,"REPORT RequestId: e1eea05c-daf2-4ded-9987-6361456a91a6	Duration: 4362.74 ms	Billed Duration: 4363 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4362.74
+2025-05-14 04:55:36.582,"REPORT RequestId: b7baa273-4391-44da-a02a-0e86c002d36e	Duration: 4245.07 ms	Billed Duration: 4246 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4245.07
+2025-05-14 04:55:36.151,"REPORT RequestId: e2371f7f-f525-4b3c-9f96-38b54a785fa2	Duration: 4276.48 ms	Billed Duration: 4277 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4276.48
+2025-05-14 04:55:32.960,"REPORT RequestId: 9dca80d4-0c1f-48c2-8e06-0245574c02f9	Duration: 4476.34 ms	Billed Duration: 4477 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4476.34
+2025-05-14 04:55:32.409,"REPORT RequestId: 45316b2b-2eac-4db0-bb41-133af7d6072e	Duration: 4313.02 ms	Billed Duration: 4314 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4313.02
+2025-05-14 04:55:32.245,"REPORT RequestId: 8954843d-8788-4ca7-97c7-fe9670a8adc0	Duration: 4137.99 ms	Billed Duration: 4138 ms	Memory Size: 1024 MB	Max Memory Used: 892 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,892000000,4137.99
+2025-05-14 04:55:32.128,"REPORT RequestId: 95f53ddb-0271-4a91-98e5-916881a88efa	Duration: 4177.82 ms	Billed Duration: 4178 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4177.82
+2025-05-14 04:55:31.766,"REPORT RequestId: c8c381c8-474e-4ad5-badf-c07e8afa2130	Duration: 4201.66 ms	Billed Duration: 4202 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4201.66
+2025-05-14 04:55:28.403,"REPORT RequestId: 2c951f62-ec97-4c23-8c2f-c33fc4495d2e	Duration: 4888.06 ms	Billed Duration: 4889 ms	Memory Size: 1024 MB	Max Memory Used: 1024 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,1024000000,4888.06
+2025-05-14 04:55:27.910,"REPORT RequestId: fa14a4cc-3ffa-456f-a575-1e80f7019de6	Duration: 4358.73 ms	Billed Duration: 4359 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4358.73
+2025-05-14 04:55:27.889,"REPORT RequestId: e61c9b2f-0542-408b-95e4-183f392bef98	Duration: 4367.12 ms	Billed Duration: 4368 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4367.12
+2025-05-14 04:55:27.842,"REPORT RequestId: c06e83dd-a16b-44ee-bae1-7b499926d6a9	Duration: 4322.42 ms	Billed Duration: 4323 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4322.42
+2025-05-14 04:55:27.447,"REPORT RequestId: aa689fc4-cfa8-4a31-8561-2171ca4de73e	Duration: 4315.38 ms	Billed Duration: 4316 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4315.38
+2025-05-14 04:55:23.439,"REPORT RequestId: 686c0222-dc58-446c-a790-54ac82af906d	Duration: 4605.57 ms	Billed Duration: 4606 ms	Memory Size: 1024 MB	Max Memory Used: 891 MB	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,891000000,4605.57
+2025-05-14 04:55:23.343,"REPORT RequestId: b31a08c0-077b-464d-8068-52edc1d85290	Duration: 4654.31 ms	Billed Duration: 4655 ms	Memory Size: 1024 MB	Max Memory Used: 887 MB	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,887000000,4654.31
+2025-05-14 04:55:23.342,"REPORT RequestId: 348b6061-8de9-4dcf-8518-1422c1d4e0ea	Duration: 4627.99 ms	Billed Duration: 4628 ms	Memory Size: 1024 MB	Max Memory Used: 889 MB	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,889000000,4627.99
+2025-05-14 04:55:23.327,"REPORT RequestId: b8730deb-7c30-4d5a-9617-870a512fb14c	Duration: 4648.86 ms	Billed Duration: 4649 ms	Memory Size: 1024 MB	Max Memory Used: 890 MB	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,890000000,4648.86
+2025-05-14 04:55:23.010,"REPORT RequestId: 0056cbb3-7385-4788-a889-a592e5ef4b39	Duration: 4562.11 ms	Billed Duration: 4563 ms	Memory Size: 1024 MB	Max Memory Used: 871 MB	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,871000000,4562.11
+2025-05-14 04:55:18.713,"REPORT RequestId: 5e571f24-8d8c-4527-bb64-1f59b7d15da7	Duration: 5978.94 ms	Billed Duration: 7355 ms	Memory Size: 1024 MB	Max Memory Used: 635 MB	Init Duration: 1375.46 ms	
+",2025/05/14/[$LATEST]3f6c7aecff504932b14820645621b0b4,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,635000000,5978.94
+2025-05-14 04:55:18.595,"REPORT RequestId: 568da65a-de03-4f84-8383-8a43b01836aa	Duration: 5847.11 ms	Billed Duration: 7251 ms	Memory Size: 1024 MB	Max Memory Used: 632 MB	Init Duration: 1403.68 ms	
+",2025/05/14/[$LATEST]000941014da740f1b0093d8fc57f1c13,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,632000000,5847.11
+2025-05-14 04:55:18.567,"REPORT RequestId: 93daf5b4-1f8c-4eab-a28b-3281aa7267b5	Duration: 5904.38 ms	Billed Duration: 7217 ms	Memory Size: 1024 MB	Max Memory Used: 632 MB	Init Duration: 1311.81 ms	
+",2025/05/14/[$LATEST]ce7ee569f85e49d29bb8573eccac46ca,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,632000000,5904.38
+2025-05-14 04:55:18.565,"REPORT RequestId: 8d5eaa61-6b01-44aa-84dc-c4b5118e4692	Duration: 5910.08 ms	Billed Duration: 7218 ms	Memory Size: 1024 MB	Max Memory Used: 635 MB	Init Duration: 1307.19 ms	
+",2025/05/14/[$LATEST]322641af014d4dfe802cfa9dac11ab92,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,635000000,5910.08
+2025-05-14 04:55:18.312,"REPORT RequestId: 4344fd00-e58c-41e7-b70b-73ff5ca33930	Duration: 5617.56 ms	Billed Duration: 6963 ms	Memory Size: 1024 MB	Max Memory Used: 632 MB	Init Duration: 1345.43 ms	
+",2025/05/14/[$LATEST]e644122127624445a29e1b8387625789,256727551815:/aws/lambda/image-resizer-dev-imageResizerBun,632000000,5617.56
