@@ -1,15 +1,26 @@
 const { XMLParser } = require('fast-xml-parser');
+const { extractObjectSchema } = require('./extractObjectSchema');
+
 const server = Bun.serve({
   port: 3000,
   async fetch(req) {
     if (req.method === 'POST') {
       try {
         const body = await req.json();
-        const { xml } = body;
+        const { xmlUrl } = body;
+
+        const response = await fetch(xmlUrl);
+        const xml = await response.text();
+    
         const parser = new XMLParser();
         const parsedXml = parser.parse(xml);
 
-        return new Response(JSON.stringify({ parsedXml }), {
+        return new Response(JSON.stringify(
+          {
+            message: 'XML parsed successfully',
+            schema: extractObjectSchema(parsedXml),
+          }
+        ), {
           headers: { 'Content-Type': 'application/json' },
         });
       } catch (error) {
